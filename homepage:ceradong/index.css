@@ -1,0 +1,13 @@
+.assignments {
+    position: absolute;
+    font-family: monospace;
+    color: black;
+    font-size: 20px;
+  }
+  
+  h3 {
+    position: relative;
+    font-family: monospace;
+    font-size: 28px;
+  }
+  
