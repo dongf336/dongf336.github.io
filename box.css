@@ -1,0 +1,32 @@
+body {
+  
+  margin:0;
+  padding: 0;
+  font-family: sans-serif;
+  color: #26292e;
+  
+}
+
+h2{
+  
+  position: absolute;
+  align-items: center;
+  letter-spacing: 60px;
+}
+
+p{
+  align-items: center;
+  position: absolute;
+  bottom: 43%;
+  left: 39%;
+  letter-spacing: 10px;
+  font-size: 13px;
+}
+ul{
+  letter-spacing: 5px;
+  right: 30%;
+  position:relative;
+  top: 16%;
+  font-size: 13px;
+}
+
