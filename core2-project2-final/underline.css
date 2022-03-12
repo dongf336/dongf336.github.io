@@ -1,0 +1,53 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.line-1 {
+  height: 3px;
+  background: black;
+}
+
+#text {
+  font-size: 29px;
+  background-color: white;
+  color: black;
+padding: 2rem;
+  width: 100%;
+  min-height: 100vh;
+  align-items: center;
+  text-align: justify;
+
+}
+
+#highlight {
+font-size: 27px;
+  width: 60%;
+
+}
+
+
+.underline-hover-effect {
+  display: inline-block;
+  padding-bottom: 0.15rem;
+  position: relative;
+}
+
+.underline-hover-effect::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: black;
+  transition: width 0.25s ease-out;
+}
+.underline-hover-effect:hover::before {
+  width: 100%;
+}
+
+ 

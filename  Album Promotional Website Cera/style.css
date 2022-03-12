@@ -1,0 +1,41 @@
+
+#myVideo {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    min-width: 100%;
+    min-height: 100%;
+  }
+  
+  .content {
+    margin: 0;
+    position: absolute;
+    top: 90%;
+    left: 10%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-155%, -50%);
+  }
+  
+  /* positions button in center and styles it */
+  #myBtn {
+    width: 100px;
+    font-size: 100px;
+    font-family: 'Shrikhand', cursive;
+    border: none;
+    background: transparent;
+    color: white;
+    cursor: pointer;
+  }
+  
+  /* when you hover over the button it becomes bold, italic, and slowly changes color */
+  #myBtn:hover {
+    color: #e851d1;
+    font-weight: bold;
+    font-style: italic;
+    transition: color 2s;
+    
+  }
+  
+  

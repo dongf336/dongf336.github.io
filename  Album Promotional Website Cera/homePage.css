@@ -1,0 +1,176 @@
+
+body{
+    background-image:url('icon13-trans.gif'); background-repeat:repeat;
+  
+  }
+  
+  img{
+    position: fixed;
+    left: 45%;
+    width: 500px;
+    height: 500px;
+  }
+  .modal {
+    position: absolute;
+    left: 76%;
+    top: 90%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    height: 30px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: left;
+    padding: 1rem 1rem;
+    border: 3px solid black;
+    border-radius: 6px;
+    background: #9468b0 ;
+    box-shadow: 8px 8px 0 rgba(0, 0, 0, 0.2);
+  }
+  .message {
+    font-size:18px;
+  text-align: left;
+    left: 20%;
+   font-family:'Racing Sans One', cursive;
+    margin-top: 0;
+  }
+  
+  
+  
+  
+  iframe{
+    position: absolute; 
+    top: 50%;
+    left: 2%;
+  }
+  /* positions button and brings it to the front */
+  .buttonA {
+    margin: 0;
+    position: absolute;
+    top: 12%;
+    left: 23%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-155%, -50%);
+    z-index: 1;
+  
+    
+  }
+  
+  /* styles button and creates "stroke" effect */
+  #button1 {
+    width: 200px;
+    font-size: 15px;
+    font-size: 100px;
+  font-family: 'Racing Sans One', cursive;  
+    padding: 10px;
+    border: none;
+    background: transparent;
+     color: black;
+    -webkit-text-fill-color: #9468b0;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  /* when hovered over the button fills as a solid color */
+  #button1:hover {
+    color: white;
+    -webkit-text-fill-color: white;
+    
+  }
+  
+  .buttonB {
+    margin: 0;
+    position: absolute;
+    top: 200%;
+    left: 40%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+  
+  #button2 {
+    width: 200px;
+    font-size: 18px;
+    font-size: 100px;
+  font-family: 'Racing Sans One', cursive;
+    padding: 10px;
+    border: none;
+    background: transparent;
+     color: black;
+    -webkit-text-fill-color: #9468b0;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  #button2:hover {
+    color: white;
+    -webkit-text-fill-color: white;
+    
+  }
+  
+  .buttonC {
+    margin: 0;
+    position: absolute;
+    top: 150%;
+    left: 40%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    
+  }
+  
+  #button3 {
+    width: 200px;
+    font-size: 18px;
+    font-size: 100px;
+  font-family: 'Racing Sans One', cursive;
+    padding: 10px;
+    border: none;
+    background: transparent;
+     color: black;
+    -webkit-text-fill-color: #9468b0;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  #button3:hover {
+    color: white;
+    -webkit-text-fill-color: white;
+    
+  }
+  
+  .buttonD {
+    margin: 0;
+    position: absolute;
+    top: 100%;
+    left: 40%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+  
+  #button4 {
+    width: 200px;
+    font-size: 18px;
+    font-size: 100px;
+  font-family: 'Racing Sans One', cursive;
+    padding: 10px;
+    border: none;
+    background: transparent;
+     color: black;
+    -webkit-text-fill-color: #9468b0;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  #button4:hover {
+    color: white;
+    -webkit-text-fill-color: white;
+    
+  }
+  
+  
