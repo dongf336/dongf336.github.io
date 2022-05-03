@@ -1,0 +1,183 @@
+.b1 {
+    background-color: transparent;
+    border: none;
+    width: 50px;
+    height: 30px;
+    position: absolute;
+    left: 40%;
+    bottom: 20%;
+    z-index:1;
+  }
+  
+  .b2 {
+    background-color: white;
+    width: 50px;
+    height: 30px;
+    position: absolute;
+    left: 65%;
+    bottom: 20%;
+    z-index: 1;
+  }
+  
+  .b3 {
+    background-color: white;
+    width: 50px;
+    height: 30px;
+    position: absolute;
+    left: 60%;
+    bottom: 20%;
+    z-index: 1;
+  
+  }
+  
+  .b4 {
+    background-color: white;
+    width: 65px;
+    height: 30px;
+    position: absolute;
+    left: 70%;
+    bottom: 20%;
+    z-index: 1;
+  
+  }
+  
+  .b5 {
+    background-color: white;
+    width: 65px;
+    height: 30px;
+    position: absolute;
+    left: 75%;
+    bottom: 20%;
+    z-index: 1;
+  
+  }
+  
+  .b6 {
+    background-color: white;
+    width: 65px;
+    height: 30px;
+    position: absolute;
+    left: 80%;
+    bottom: 20%;
+    z-index: 1;
+  
+  }
+  
+  .b7 {
+    background-color: white;
+    width: 65px;
+    height: 30px;
+    position: absolute;
+    left: 80%;
+    bottom: 25%;
+    z-index: 1;
+  
+  }
+  
+  .b8 {
+    background-color: white;
+    width: 65px;
+    height: 30px;
+    position: absolute;
+    left: 75%;
+    bottom: 25%;
+    z-index: 1;
+  
+  }
+  
+  
+  
+  .bb {
+    background-color: white;
+    height: 30px;
+    position: absolute;
+    left: 20%;
+    bottom: 20%;
+    z-index: 1;
+  
+  }
+  
+  
+  
+  
+  .content {
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+  }
+  .content2 {
+    width: 400px;
+    height: 300px;
+    position: absolute;
+  bottom: .5%;
+    left: 3%;
+  }
+  
+  .content4 {
+    width: 400px;
+    height: 300px;
+    position: absolute;
+  bottom: .5%;
+    left: 3%;
+    
+  }
+  
+  .content5 {
+    margin: 0;
+    padding: 0;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+  bottom: -5%;
+    left: 5%;
+    
+  }
+  
+  .content6 {
+    margin: 0;
+    padding: 0;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+  bottom: -5%;
+    left: 5%;
+    
+  }
+  
+  .content7 {
+    margin: 0;
+    padding: 0;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+  bottom: -5%;
+    left: 5%;
+    
+  }
+  
+  
+  
+  
+  img {
+     width: 470px;
+    height: 500px;
+  }
+  
+  #second, #third, #fourth, #fifth, #sixth, #seventh, #eighth {
+    display: none
+  }
+  
+  button {
+    outline: none;
+    
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    background: #AFAAB9;
+  }
+  
+  
